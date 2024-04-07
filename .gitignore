@@ -1,0 +1,5 @@
+pruebaa-env
+*.ipynb
+.vscode
+*.csv
+*.xlsx
